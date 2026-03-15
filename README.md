@@ -224,7 +224,7 @@ Contributions are welcome!
 
 ## 👩‍💻 Author
 
-**Snehal Bolke**
+**Radhika Wagh**
 GitHub: https://github.com/snehalbolke13
 
 ---
