@@ -179,13 +179,6 @@ The project can be deployed on:
 
 ---
 
-## 📸 Screenshots
-
-**Screenshot 1: Home Page**
-![image alt](https://github.com/snehalbolke13/YoutubeProject/blob/cf29193b9896a7be13d2ff82e1ba209abb5349a0/photo.png)
-
-**Screenshot 2: video Page**
-![image alt](https://github.com/snehalbolke13/YoutubeProject/blob/41b1c66918c0e8d2edcb3ec1fffc072c4b74d688/youtube_video.png)
 
 **TASK 1:Comment Section Enhancements**
 
